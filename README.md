@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Prathamesh
+- 👋 Hi, I’m Prathamesh Sirdesai
 - 👀 I’m interested in Web Development
-- 🎮 I'm also interested in Android Development & Game Development
-- 🌱 I’m currently learning C# and Web Development 
-- ⚡ I'm enthusiastic about DSA
-- 📫 Reach me at ... https://www.linkedin.com/in/sirdesai-exe
+- 🌱 I’m currently working on Web3 & Unity 
+- 📫 Reach me at https://www.linkedin.com/in/sirdesai-exe
