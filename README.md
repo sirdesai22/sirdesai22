@@ -4,6 +4,7 @@
 
 - 😎 I'm intrested in Web Development
 - 🎮 Currently learning Web3 & Unity
+- 📈 Making DSA my strength.
 - 📩 Contact me at sirdesai.work@gmail.com
 <h3>Connect with me on</h3>
 <div>
