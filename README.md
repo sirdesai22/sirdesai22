@@ -4,7 +4,7 @@
 
 - 😎 I'm intrested in Web Development
 - 🎮 Currently learning Web3 & Unity
-- 📩 Contact me at @sirdesai.work@gmail.com
+- 📩 Contact me at sirdesai.work@gmail.com
 <h3>Connect with me on</h3>
 <div>
   <a href="www.linkedin.com/in/sirdesai-exe"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" height="40" alt="www.linkedin.com/in/sirdesai-exe" /></a>
