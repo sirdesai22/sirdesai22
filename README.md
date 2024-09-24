@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirdesai22&label=Profile%20views&color=0e75b6&style=flat" alt="sirdesai22" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning NextJS<br>💭 Ask me about technology<br>📫 How to reach me sirdesai.work@gmail.com<br>⚡ Fun fact I love playing Video Games
+🌱 I bring ideas to life<br>💭 Ask me about technology<br>📫 How to reach me sirdesai.work@gmail.com<br>⚡ Fun fact I love playing Video Games
 
 
 # 🌐 Socials:
