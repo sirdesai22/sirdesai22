@@ -6,15 +6,6 @@
   </p>
 </div>
 
-
-## 💫 About Me
-
-- 🚀 I bring ideas to life
-- 💭 Ask me about technology
-- 📫 Reach me at: **sirdesai.work@gmail.com**
-- 🎮 Fun fact: I love playing Video Games
-- 🦸‍♂️ I'm Spiderman by day, Batman by night - don't tell anyone!
-
 ## 🌐 Connect With Me
 
 <div>
@@ -32,64 +23,26 @@
   </a>
 </div>
 
-## 💻 Tech Stack
+# 👋 Hey, I'm Prathamesh  
 
-<details open>
-  <summary><b>Frontend</b></summary>
-  <br>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
-  </p>
-</details>
+I’m a **Software Developer & AI Builder** who loves building **MVPs**, experimenting with **AI/ML, Web3, and full-stack systems**, and shipping impactful projects.  
 
-<details open>
-  <summary><b>Backend</b></summary>
-  <br>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
-  </p>
-</details>
+---
 
-<details open>
-  <summary><b>Database</b></summary>
-  <br>
-  <p>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
-  </p>
-</details>
+## 🚀 What I Do  
+- 🛠️ Build **full-stack apps** with React, Next.js, Go, and TypeScript  
+- ⚡ Design **scalable backends** with PostgreSQL, Redis, and Docker  
+- 🤖 Create **AI-powered tools** for real-world use cases (health, education, communication)  
+- 🌐 Explore **Web3 dApps** with Solidity & Hardhat  
+- 🧩 Focus on **clean architecture, modularity, and performance**  
 
-<details open>
-  <summary><b>Design & Tools</b></summary>
-  <br>
-  <p >
-    <img src="https://skillicons.dev/icons?i=figma,blender,ps,ae,pr" />
-  </p>
-</details>
+---
 
-<details open>
-  <summary><b>Deployment</b></summary>
-  <br>
-  <p>
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,github" />
-  </p>
-</details>
-
-## 📊 GitHub Stats
-
-<div >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirdesai22&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-
-## ✍️ Random Dev Quote
-
-<div >
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<!---
-<div >
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirdesai22&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</div>
---->
+## 🛠️ Tech Stack  
+**Languages**: Go, TypeScript, Python, Solidity, SQL, C/C++  
+**Frontend**: React, Next.js, Tailwind, React Native  
+**Backend**: Node.js, Go, Express, REST, GraphQL  
+**Database**: PostgreSQL, MongoDB, Redis  
+**Infra**: Docker, Kubernetes, GitHub Actions  
+**AI/ML**: TensorFlow, PyTorch, OpenAI APIs  
 
