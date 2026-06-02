@@ -29,6 +29,12 @@ I’m a **Software Developer & AI Builder** who loves building **MVPs**, experim
 
 ---
 
+## 🚀 Highlight Projects  
+- **Razr** - AI Video Clipper getrazr.com
+- **Recall AI** - An always-on desktop agent that builds a semantic memory of your digital life.
+
+---
+
 ## 🚀 What I Do  
 - 🛠️ Build **full-stack apps** with React, Next.js, Go, and TypeScript  
 - ⚡ Design **scalable backends** with PostgreSQL, Redis, and Docker  
