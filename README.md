@@ -45,10 +45,10 @@ I'm a **Software Developer & AI Builder** who loves building **MVPs**, experimen
 - [**birthdays**](https://github.com/sirdesai22/birthdays) — Birthday reminder and management app
 
 ### 🖥️ Desktop
+- [**Razr**](https://getrazr.com) — AI Video Clipper
 - [**recall_ai**](https://github.com/sirdesai22/recall_ai) — Always-on desktop agent that builds semantic memory of your digital life (privacy-first, local-only)
 
 ### 🌐 Web Apps
-- [**Razr**](https://getrazr.com) — AI Video Clipper
 - [**filcraft**](https://github.com/sirdesai22/filcraft) — On-chain AI agent marketplace and economy on Filecoin
 - [**key-dash**](https://github.com/sirdesai22/key-dash) — Typing speed test with WPM tracking, error analysis, and progress charts
 - [**ZeroHungerWEB**](https://github.com/sirdesai22/ZeroHungerWEB) — Surplus food redistribution connecting restaurants with NGOs
