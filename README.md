@@ -46,6 +46,7 @@ I'm a **Software Developer & AI Builder** who loves building **MVPs**, experimen
 - [**birthdays**](https://github.com/sirdesai22/birthdays) — Birthday reminder and management app
 
 ### 🖥️ Desktop
+- [**mackey**](https://github.com/sirdesai22/mackey) — Secure remote terminal over WebRTC with a 9-digit code and master password
 - [**Razr**](https://getrazr.com) — AI Video Clipper
 - [**recall_ai**](https://github.com/sirdesai22/recall_ai) — Always-on desktop agent that builds semantic memory of your digital life (privacy-first, local-only)
 
