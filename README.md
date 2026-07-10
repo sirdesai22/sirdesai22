@@ -39,13 +39,13 @@ I'm a **Software Developer & AI Builder** who loves building **MVPs**, experimen
 - [**x_research_agent**](https://github.com/sirdesai22/x_research_agent) — AI research and posting agent for X/Twitter automation
 
 ### 📱 Mobile
-- [**orbit**](https://github.com/sirdesai22/orbit) — Gamified educational mobile app for students and teachers with a space-themed UI
 - [**nutri_mind**](https://github.com/sirdesai22/nutri_mind) — AI-powered food tracking with photo recognition and macro breakdowns
 - [**ghost_coach**](https://github.com/sirdesai22/ghost_coach) — AI cricket coaching assistant that analyzes stances via photos
 - [**fit-lyf**](https://github.com/sirdesai22/fit-lyf) — Fitness & wellness app with habit tracking, leaderboards, and AI suggestions
 - [**birthdays**](https://github.com/sirdesai22/birthdays) — Birthday reminder and management app
 
 ### 🖥️ Desktop
+- [**mackey**](https://github.com/sirdesai22/mackey) — Secure remote terminal over WebRTC with a 9-digit code and master password
 - [**Razr**](https://getrazr.com) — AI Video Clipper
 - [**recall_ai**](https://github.com/sirdesai22/recall_ai) — Always-on desktop agent that builds semantic memory of your digital life (privacy-first, local-only)
 
